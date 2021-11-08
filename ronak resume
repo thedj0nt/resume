@@ -1,0 +1,421 @@
+{
+	"awards": {
+		"heading": "Awards/Achievements ",
+		"items": [
+			{
+				"awarder": "IEEE (NCEC 2019)",
+				"date": "",
+				"id": "2c90ef83-8d7f-46f6-a9e7-16fdb1252e41",
+				"isVisible": false,
+				"summary": "Project Paper Presentation conducted by NCEC at DSI.                \nProject Title: Accurate Detection Of Dirty Vehicle Number Plate.",
+				"title": "Certificate of Participation"
+			},
+			{
+				"awarder": "Rhythms College of Fine Arts",
+				"date": "",
+				"id": "6af72619-09cc-4c79-abdd-25eff7369aa3",
+				"summary": "",
+				"title": "The Best student of the year - Keyboard"
+			},
+			{
+				"awarder": "K M music conservatory",
+				"date": "2015-02-18",
+				"id": "ac010aad-eec5-4e19-9021-24bebe27654b",
+				"summary": "All India Battle of Band competition conducted by K M music conservatory (founded by A. R. Rahman) - Chennai\n",
+				"title": "2nd Place in Battle of Bands Ragreza"
+			},
+			{
+				"awarder": "Deccan Herald",
+				"date": "2016-10-10",
+				"id": "dbb8c718-9c79-40f3-88c4-a62a45f26aa8",
+				"summary": "Keyboardist at Fundametal Band, article on Deccan Herald \"the Little Metal Monsters\" and \"We are not just another band\"\n",
+				"title": "Youngest Rock/Metal Band in Bangalore - 2016"
+			}
+		],
+		"visible": true
+	},
+	"certifications": {
+		"heading": "Certifications",
+		"items": [
+			{
+				"date": "",
+				"id": "29735d5c-1751-4693-971f-4ea37ddc9634",
+				"issuer": "Coursera | Google",
+				"summary": "",
+				"title": "Foundations of User Experience (UX) Design"
+			},
+			{
+				"date": "",
+				"id": "75b26e18-f5df-41b7-a254-5b1d2c12a0cf",
+				"issuer": "Coursera",
+				"summary": "",
+				"title": "Introduction to HTML"
+			},
+			{
+				"date": "",
+				"id": "774357e2-583e-4c56-a125-df0c78874c5a",
+				"issuer": "Coursera",
+				"summary": "",
+				"title": "Introduction to Java Programming : Java Fundamental Concepts"
+			},
+			{
+				"date": "",
+				"id": "f69416a9-1c3d-49cd-b404-eb56a16c86b3",
+				"issuer": "Rhythms college of fine arts",
+				"summary": "",
+				"title": "Proficiency in Keyboard (Western/Hindustani Music)"
+			}
+		],
+		"visible": true
+	},
+	"education": {
+		"heading": "Education",
+		"items": [
+			{
+				"degree": "Bachelor's Degree ",
+				"endDate": "",
+				"field": "Information Science and Engineering ",
+				"gpa": "",
+				"id": "903362f2-3aa3-4054-beae-b014d6f0cbd5",
+				"institution": "RNS Institute of Technology",
+				"startDate": "2019-07-11",
+				"summary": ""
+			},
+			{
+				"degree": "Diploma",
+				"endDate": "2019-05-01",
+				"field": "Computer Science & Engg",
+				"gpa": " 71.8%",
+				"id": "5dc0d1df-cac9-4c31-94a2-5d1ff92154d3",
+				"institution": "Dayananda Sagar Institute Of Technology",
+				"startDate": "2016-07-01",
+				"summary": ""
+			},
+			{
+				"degree": "Primary/Secondary Education",
+				"endDate": "2014-03-11",
+				"field": "CBSE",
+				"gpa": "CGPA  6.8",
+				"id": "0a5e7d49-af3d-43ad-af88-c8fc8ab7e16e",
+				"institution": "Venkat International Public School",
+				"startDate": "2002-06-11",
+				"summary": ""
+			}
+		],
+		"visible": true
+	},
+	"hobbies": {
+		"heading": "Hobbies",
+		"items": [
+			{
+				"id": "cd0e9caa-cc5c-4227-a296-0efcc188c3da",
+				"name": "Music Production"
+			},
+			{
+				"id": "5f221d9c-1ccd-4f1f-98c4-d57afdd16741",
+				"name": "Keyboard/Piano"
+			},
+			{
+				"id": "5ff368e2-7cda-4c8f-b37b-e4bc1bbfc843",
+				"name": "Guitar/Bass"
+			},
+			{
+				"id": "1778d8a7-bed3-47fe-ba7b-a2f35415b886",
+				"name": "Digital illustrations "
+			},
+			{
+				"id": "724e01b5-2e0b-4b88-8bb7-9bf483a38aa1",
+				"name": "Pencil Sketch"
+			},
+			{
+				"id": "d7be2e0e-f8e5-4e9f-a744-98dbcd1ce81b",
+				"name": "Badminton"
+			}
+		],
+		"visible": true
+	},
+	"languages": {
+		"heading": "Languages",
+		"items": [
+			{
+				"fluency": "Full Professional Proficiency",
+				"id": "bc5780e6-7acf-41b0-9a4a-dbcc55d9f83c",
+				"isVisible": true,
+				"name": "English"
+			},
+			{
+				"fluency": "Native or Bilingual Proficiency",
+				"id": "19e659e3-7d71-4880-92c9-745141181083",
+				"name": "Gujarati "
+			},
+			{
+				"fluency": "Professional Working Proficiency",
+				"id": "9a0fdc79-2f11-4568-8d34-815ef7dd71bf",
+				"name": "Hindi"
+			},
+			{
+				"fluency": "Limited Working Proficiency",
+				"id": "1023a809-08f5-4b0a-a269-b2a0ba8815e1",
+				"name": "Kannada"
+			}
+		],
+		"visible": true
+	},
+	"metadata": {
+		"colors": {
+			"background": "#FFFFFF",
+			"primary": "#3F51B5",
+			"text": "#444444"
+		},
+		"font": "Titillium Web",
+		"fontSize": "12",
+		"language": "en",
+		"layout": {
+			"castform": [
+				[
+					"languages",
+					"hobbies"
+				],
+				[
+					"education",
+					"projects",
+					"certifications",
+					"awards",
+					"skills",
+					"work",
+					"references",
+					"objective"
+				]
+			],
+			"celebi": [
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"references"
+				]
+			],
+			"gengar": [
+				[
+					"objective",
+					"education",
+					"certifications"
+				],
+				[
+					"languages",
+					"hobbies"
+				],
+				[
+					"projects",
+					"skills",
+					"work",
+					"references",
+					"awards"
+				]
+			],
+			"glalie": [
+				[
+					"awards",
+					"certifications",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"languages",
+					"references"
+				]
+			],
+			"onyx": [
+				[
+					"education",
+					"projects",
+					"certifications",
+					"skills",
+					"languages"
+				],
+				[
+					"hobbies",
+					"awards"
+				],
+				[
+					"references",
+					"work",
+					"objective"
+				]
+			],
+			"pikachu": [
+				[
+					"skills",
+					"languages",
+					"hobbies",
+					"work"
+				],
+				[
+					"education",
+					"projects",
+					"references",
+					"certifications",
+					"awards"
+				]
+			]
+		},
+		"template": "pikachu"
+	},
+	"objective": {
+		"body": "",
+		"heading": "",
+		"visible": true
+	},
+	"preview": "https://images.unsplash.com/photo-1615731364858-99013ac4fad3?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjE3NzA4MzAx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=400",
+	"profile": {
+		"address": {
+			"city": "Bengaluru",
+			"line1": "992 67th A Cross 5th Block Rajajinagar ",
+			"line2": "",
+			"pincode": "560010"
+		},
+		"birthDate": "1998-12-14",
+		"email": "1rn19is406.ronak@gmail.com",
+		"firstName": "Ronak ",
+		"heading": "Profile",
+		"lastName": "H Rathod",
+		"phone": "9591391264",
+		"photograph": "https://firebasestorage.googleapis.com/v0/b/rx-resume.appspot.com/o/users%2FNsdQSrz0hMc9ucRmnNpwV5wEAE03%2Fphotographs%2Fi5983i?alt=media&token=59b78056-8180-4247-a1dd-fdf3d2a3fb69",
+		"subtitle": "UI/UX designer | Software Engineer",
+		"website": ""
+	},
+	"projects": {
+		"heading": "Projects",
+		"items": [
+			{
+				"date": "",
+				"id": "94999a94-364c-4bce-b912-ec167f7ebe0f",
+				"link": "https://play.google.com/store/apps/details?id=com.doit.Do_it&hl=en_IN&gl=US",
+				"summary": "An app to create a to-do list, tasks, and reminders with ease.                 \nTools used for User Interface design is Adobe XD and Adobe Illustrator.\n",
+				"title": "Do It app"
+			},
+			{
+				"date": "",
+				"id": "c820d88e-9083-48ef-8ac3-eb11957f8259",
+				"link": "https://github.com/thedj0nt/Pet-Store-Managament.",
+				"summary": "This project is mainly focused on Database concepts to manage the inventory of the pet shop, where the owner/admin can manage all customers, suppliers & pets details in one place. \nThe technologies used in building this website are HTML, CSS, PHP Mysql server.",
+				"title": "Pet Shop Management System"
+			}
+		],
+		"visible": true
+	},
+	"public": true,
+	"references": {
+		"heading": "References",
+		"visible": true
+	},
+	"skills": {
+		"heading": "Skills",
+		"items": [
+			{
+				"id": "b407285a-3d0b-41bd-af68-793714ed773d",
+				"level": "",
+				"name": "UI/UX Design"
+			},
+			{
+				"id": "e7a3a5e9-d320-49e6-b8f6-528101aab092",
+				"level": "",
+				"name": "HTML"
+			},
+			{
+				"id": "b37bd4a5-8635-48e7-a7c4-f4707a5bb02e",
+				"level": "",
+				"name": "CSS"
+			},
+			{
+				"id": "e7accc6f-3838-4fae-bb60-8257fa32119c",
+				"level": "",
+				"name": "PHP"
+			},
+			{
+				"id": "e784dc86-af70-417a-b724-3baaed6d53eb",
+				"level": "",
+				"name": "Java"
+			},
+			{
+				"id": "8669b769-d2a3-4508-bd83-4951da25433d",
+				"level": "",
+				"name": "C "
+			},
+			{
+				"id": "d39cd74b-1c09-44cb-8669-9d412e1645e3",
+				"level": "",
+				"name": "MySQL"
+			},
+			{
+				"id": "5f4b1bc7-b38e-4f04-a5e5-84200ea04774",
+				"level": "",
+				"name": "Figma"
+			},
+			{
+				"id": "d3003963-8908-47c6-86ef-06f4fb20e7b8",
+				"level": "",
+				"name": "Adobe XD"
+			},
+			{
+				"id": "f5d46975-f888-4730-b996-b448d1b2df3f",
+				"level": "",
+				"name": "Adobe Illustrator"
+			}
+		],
+		"visible": true
+	},
+	"social": {
+		"heading": "Social Network",
+		"items": [
+			{
+				"id": "9bce4d20-5037-46c8-97cc-608b152b68df",
+				"isVisible": true,
+				"network": "LinkedIn",
+				"url": "https://www.linkedin.com/in/ronak-rathod-47822b142/",
+				"username": "Ronak Rathod"
+			},
+			{
+				"id": "1ac99bb4-ced6-4c20-87d2-19c607a2c4d6",
+				"network": "Dribbble",
+				"url": "https://dribbble.com/ronak_designer",
+				"username": "Ronak Rathod"
+			},
+			{
+				"id": "352afd5d-9ddb-4aee-b7bc-f5c11c9694a1",
+				"isVisible": true,
+				"network": "Behance",
+				"url": "https://www.behance.net/ronakrathod3",
+				"username": "Ronak Rathod"
+			}
+		],
+		"visible": true
+	},
+	"work": {
+		"heading": "Work Experience",
+		"items": [
+			{
+				"company": "TapChef",
+				"endDate": "2017-07-30",
+				"id": "660f9541-01c1-402c-a8ec-5a1234458698",
+				"position": "Intern",
+				"startDate": "2017-04-28",
+				"summary": "Designing website mockups for B2B clients websites ",
+				"website": ""
+			}
+		],
+		"visible": true
+	}
+}
