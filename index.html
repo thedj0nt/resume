@@ -3,24 +3,78 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Resume</title>
+  <title>Ronak H Rathod - Resume</title>
   <style>
     body, html {
       margin: 0;
       padding: 0;
       height: 100%;
-      overflow: hidden;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: #f3f4f6; /* Clean light gray background for mobile */
     }
-    iframe {
+    
+    /* Desktop view: show iframe, hide mobile fallback */
+    .pdf-container {
       width: 100%;
-      height: 100%;
+      height: 100vh;
       border: none;
+      display: block;
+    }
+    .mobile-message {
+      display: none;
+    }
+
+    /* Mobile view: hide iframe, show nice button */
+    @media screen and (max-width: 768px) {
+      .pdf-container {
+        display: none;
+      }
+      .mobile-message {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        text-align: center;
+        padding: 20px;
+      }
+      h2 {
+        color: #333;
+        margin-bottom: 10px;
+      }
+      p {
+        color: #666;
+        margin-bottom: 20px;
+      }
+      .button {
+        display: inline-block;
+        padding: 14px 28px;
+        font-size: 16px;
+        color: white;
+        background-color: #0366d6; /* GitHub blue */
+        text-decoration: none;
+        border-radius: 6px;
+        font-weight: 600;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        transition: background-color 0.2s;
+      }
+      .button:hover {
+        background-color: #005cc5;
+      }
     }
   </style>
 </head>
 <body>
-  <iframe src="Ronak_H_Rathod_Resume.pdf">
-    This browser does not support PDFs. Please download the PDF to view it: <a href="Ronak_H_Rathod_Resume.pdf">Download PDF</a>.
-  </iframe>
+
+  <!-- Mobile View: Shows a clean button -->
+  <div class="mobile-message">
+    <h2>Ronak H Rathod</h2>
+    <p>View my resume directly in your mobile browser.</p>
+    <a class="button" href="Ronak_H_Rathod_Resume.pdf" target="_blank">View / Download PDF</a>
+  </div>
+
+  <!-- Desktop View: Shows the full embedded PDF -->
+  <iframe class="pdf-container" src="Ronak_H_Rathod_Resume.pdf"></iframe>
+
 </body>
 </html>
